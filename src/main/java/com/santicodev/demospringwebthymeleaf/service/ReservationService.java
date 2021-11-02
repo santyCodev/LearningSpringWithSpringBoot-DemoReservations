@@ -64,7 +64,7 @@ public class ReservationService {
                 return o1.getRoomName().compareTo(o2.getRoomName());
             }
         });
-        
+
         return roomReservations;
     }
 
