@@ -2,6 +2,7 @@ package com.santicodev.demospringwebthymeleaf.business.domain;
 
 import java.util.Date;
 
+//DTO Class
 public class RoomReservation {
 
     private long roomId;
